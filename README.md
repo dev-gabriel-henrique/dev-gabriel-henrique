@@ -1,4 +1,4 @@
-<a href="https://app.rocketseat.com.br/me/gabriel-henrique-inacio-venturin-03828"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=gabriel-henrique-inacio-venturin-03828&type=card" width="280" alt="GABRIEL HENRIQUE INACIO VENTURIN's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/gabriel-henrique-inacio-venturin-03828"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=gabriel-henrique-inacio-venturin-03828&type=card" width="100%" alt="GABRIEL HENRIQUE INACIO VENTURIN's Rocket ID"/></a>
 
 - 👋 Olá, muito prazer! Sou o Gabriel Henrique, um aspirante a desenvolvedor web, tenho 23 anos e estou saindo de 3 anos de corretagem, e é tudo muito novo para mim!
 - 👀 Atualmente me interesso por estudar o máximo possível, para que em alguns meses possa iniciar em uma empresa ou projeto novo;
