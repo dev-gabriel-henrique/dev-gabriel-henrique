@@ -3,7 +3,7 @@
 - 🌱 Estou iniciando meus estudos pela Rocketseat, e também estou procurando uma faculdade de ADS, para realmente ampliar os conhecimentos, e ser um bom profissional, atualmente inicio meus estudos nas áreas de Front-end, focando nas seguintes linguagens:
   - JS;
   - C;
+  
   Caso queiram me indicar coisas novas ou me chamar pra conversar, você pode me encontrar na seguinte rede:
-- 📫 LinkedIn: https://www.linkedin.com/in/gabriel-henrique-21b366301/
+- 📫 LinkedIn: https://www.linkedin.com/in/gabriel-henrique-21b366301/;
 
-<a href="https://app.rocketseat.com.br/me/gabriel-henrique-inacio-venturin-03828"></a>](https://app.rocketseat.com.br/me/gabriel-henrique-inacio-venturin-03828)
