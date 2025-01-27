@@ -6,6 +6,6 @@
 - Redux;
 - NodeJS;
   
-  Caso queiram me indicar coisas novas ou me chamar pra conversar, você pode me encontrar na seguinte rede:
+  Caso queiram me indicar cursos novos ou me chamar pra conversar, você pode me encontrar na seguinte rede:
 - 📫 LinkedIn: https://www.linkedin.com/in/gabriel-henrique-21b366301/;
 
